@@ -1,2 +1,2 @@
 # Meus estudos
-Primeira versão do mmeu arquivo README.md
+Primeira versão do meu arquivo README.md
