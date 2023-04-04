@@ -38,8 +38,9 @@ Aqui anotarei minhas metas diárias para os próximos 3 meses, onde estarei foca
 <br>
 
 ### Objetivos 04/04/2023
-- [] Estudar as funções strspn e strcspn - span a string.
-- [] Exercícios lista 3.
+- [x] Estudar as funções strspn e strcspn - span a string.
+- [x] Exercícios lista 3.
+- [x] Estudar Linux.
 <br>
 <br>
 
