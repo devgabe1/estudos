@@ -44,5 +44,6 @@ Aqui anotarei minhas metas diárias para os próximos 3 meses, onde estarei foca
 <br>
 <br>
 
-
-
+### Objetivos 05/04/2023
+- [] Estudar Linux.
+- [] Exercícios lista 3.
